@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Céspedes.Agro</string>
+    <string name="connect">Conectar</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="connected">Conectado</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="paired_devices">Dispositivos emparejados</string>
+    <string name="console">Consola</string>
+    <string name="clear">Limpiar</string>
+    <string name="auto_scroll">Auto-scroll</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="send">Enviar</string>
+</resources>
